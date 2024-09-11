@@ -1,0 +1,101 @@
+flower,flower_Inches,flowerFrequency,flowerAlts,flowerAlt_Inches,flowerAlt_Frequency
+Desert Marigold,1,7,"Perky Sue,Brittlebrush","0.5,0.5","7,10"
+Mexican Sunflower,2,7,"Four Nerve Daisy,Narrowleaf Sunflower,Angelita Daisy","0.5,1,0.5","14,7,14"
+Angelita Daisy,1,7,"Four Nerve Daisy,Perky Sue,Mexican Sunflower","0.5,0.5,1","14,7,7"
+Desert Zinnia,1,7,Blackfoot Daisy,0.5,14
+California Poppy,1,7,"Arizona Poppy,Mexican Poppy,Desert Globemallow","0.5,0.5,0.5","7,7,7"
+Blackfoot Daisy,1,14,Desert Zinnia,0.5,7
+Red Yucca,1,14,Hesperaloe,1,30
+Penstemon,1,7,"Parry's Penstemon,Firecracker Penstemon,Agastache","1,1,1","7,7,7"
+Lantana,1,7,"Texas Lantana,Mistflower","1,1","7,7"
+Texas Sage,1,14,None,None,None
+Mexican Primrose,1,7,"Evening Primrose,Sundrops,Rock Rose","1,1,0.5","7,7,14"
+Verbena,1,7,"Desert Verbena,Moss Verbena,Sand Verbena,Purple Trailing Lantana","0.5,1,0.5,1","7,7,7,7"
+Bougainvillea,1,7,Yellow Bells,1,7
+Desert Lavender,1,14,"Woolly Butterfly Bush White Sage,Texas Sage","1,1,0.5","7,7,14"
+Salvia,1,7,"Desert Sage,Russian Sage","1,1","14,14"
+Gaillardia,1,7,"Blanketflower,Firewheel,Arizona Sunflower","1,1,1","7,7,7"
+Rock Rose,1,14,"Mexican Primrose,Sundrops","1,1","7,7"
+Blue Bells,1,7,"Desert Bluebell,California Bluebell,Texas Bluebell,Desert Lupine","1,1,1,1","7,7,7,7"
+Globe Mallow,1,7,"Apricot Mallow,Desert Globemallow,Scarlet Globemallow,Sphaeralcea","0.5, 0.5, 0.5, 0.5","14,7,7,7"
+Firecracker Penstemon,1,7,"Parry's Penstemon,Scarlet Bugler","1, 1","7,7"
+Arizona Poppy,1,7,"Mexican Poppy,California Poppy","0.5, 0.5","7,7"
+Desert Willow,1,14,None,None,None
+Baja Fairy Duster,1,14,None,None,None
+Damianita Daisy,1,14,"Angelita Daisy,Four Nerve Daisy","0.5, 0.5","14,14"
+Butterfly Weed,1,7,None,None,None
+Purple Coneflower,1,7,Prairie Coneflower,1,7
+Cosmos,1,7,None,None,None
+Pride of Barbados,1,7,None,None,None
+Aloe Vera,1,14,Agave,1,30
+Evening Primrose,1,7,"Mexican Primrose,Sundrops","1, 1","7,7"
+Golden Columbine,1,7,None,None,None
+Sunset Hyssop,1,14,"Agastache,Autumn Sage,Desert Beardtongue","1, 0.5, 0.5","7,14,14"
+Parry’s Penstemon,1,7,Desert Beardtongue,0.5,14
+Purple Trailing Lantana,1,7,"Desert Verbena,Moss Verbena","0.5, 1","7,7"
+Desert Globe Amaranth,0.5,14,"Rock Pulsane,Parry's Penstemon","1,1","10,7"
+Hibiscus,1,7,"Rock Hibiscus,Desert Willow","1,1","14,21"
+Scarlet Bugler,0.5,14,"Firecracker Penstemon,Red Yucca,Ocotillo","1,1,1","7,14,21"
+Mexican Heather,0.75,7,"Texas Ranger, Lavender","1,0.5","14,14"
+Golden Barrel Cactus,0.25,30,"Fishhook Barrel Cactus,Compass Barrel Cactus","0.5,0.5","30,30"
+Vinca,0.75,7,Moss Rose,1,5
+Yellow Bells,0.75,10,"Desert Senna,Palo Verde","1,1","14,21"
+Dusty Miller,0.5,14,"White Sage,Woodly Butterfly Bush","1,1","14,14"
+Coral Fountain,0.75,10,"Firecracker Penstemon,Chuparosa","1,1","7,14"
+Portulaca,0.5,10,"Moss Rose,Gazania","1,1","5,7"
+Desert Lily,0.5,14,Yucca,1,21
+Tithonia,1,7,"Blanket Flower,African Daisy","1,1","7,7"
+Mexican Honeysuckle,0.75,7,"Chuparosa,Firecracker Penstemon","1,1","14,7"
+Cape Plumbago,1,7,"Lavender,Blue Sage","0.5,1","14,10"
+Desert Penstemon,0.5,14,Parry's Penstemon,1,7
+Gazania,0.5,10,Blanket Flower,1,7
+Society Garlic,0.75,10,None,None,None
+Blanket Flower,0.75,10,"Gazania,African Daisy","1,1",7
+Trailing Rosemary,0.5,14,None,None,None
+Butterfly Bush,1,7,"Butterfly Bush,Texas Sage","1,1","14,14"
+Chuparosa,0.5,14,"Firecracker Penstemon,Coral Fountain","1,1","7,7"
+Autumn Sage,0.5,14,Texas Sage,1,14
+Purple Verbena,0.5,10,Desert Verbena,1,10
+Marigold,0.75,7,Mexican Sunflower,1,7
+Creeping Thyme,0.5,14,None,None,None
+Globe Thistle,0.5,14,Dandelions,1,7
+Coreopsis,0.75,10,"Blanket Flower,Desert Marigold","1,1","7,14"
+Pentas,1,7,Lantana,1,7
+Petunia,1,7,Gazania,1,7
+Russian Sage,0.5,14,"Blue Sage,Texas Sage","1,1","10,14"
+White Evening Primrose,0.5,14,"White Desert Penstemon,Apache Plume","1,1","7,14"
+Mojave Aster,0.5,14,African Daisy,1,7
+Lavender,0.5,14,"Russian Sage,Texas Ranger","1,1","14,14"
+African Daisy,1,7,"Gazania,Blanket Flower","0.5,1","7,7"
+Yellow Columbine,1.5,5,California Poppy,0.5,7
+Crown of Thorns,0.5,10,None,None,None
+Brittlebush,0.5,14,None,None,None
+Periwinkle,1.5,6,Rock Rose,0.5,7
+Silky Thread Grass,1,7,Blue Grama,0.5,7
+Snapdragon,1.5,5,Penstemon,0.5,7
+Alyssum,1,6,"Creeping Thyme,Sedum","0.25,0.25","7,7"
+Blue Sage,1.5,7,"Russian Sage,Cat Mint,Agastache","0.5,0.5,0.5","7,7,7"
+Scarlet Flax,1,5,"California Poppy,Globe Mallow","0.5,0.5","7,7"
+Cape Daisy,1,7,Gazenia,0.5,7
+Oleander,1.5,7,Rosemary,0.5,7
+Sundrops,1,7,"California Poppy,Rock Rose","0.5,0.5","7,7"
+Texas Mountain Laurel,1,10,Desert Willow,0.25,7
+Ocotillo,0.5,14,None,None,None
+Fairy Duster,0.5,14,None,None,None
+Nasturtium,1,6,"California Poppy,Globe Mallow","0.5,0.5","7,7"
+Desert Four O’Clock,0.5,14,None,None,None
+Elephant’s Food,0.5,14,None,None,None
+Purple Sage,1,10,Texas Sage,0.25,7
+Golden Eye,1,7,"Blanket Flower,Coreopsis","1,1","7,7"
+Trailing Ice Plant,0.5,10,None,None,None
+Creeping Jenny,1,7,Creeping Thyme,0.25,7
+Poppy Mallow,1,7,California Poppy,0.5,7
+Jerusalem Sage,1,10,Texas Sage,0.25,7
+Moss Rose,0.5,10,None,None,None
+Evening Snow,1,6,"Globe Mallow,Rock Rose","0.5,0.5","7,7"
+Cape Daisy,1,7,None,None,None
+Silverleaf Nightshade,0.5,14,None,None,None
+Silver Torch Cactus,0.25,21,None,None,None
+Mallow,1,7,Rock Rose,0.5,7
+Crimson Bottlebrush,1.5,7,Red Yucca,0.25,7
+Cat's Claw Vine,1,8,"Coral Vine,Yellow Bells","1,0.5","7,7"
