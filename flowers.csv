@@ -1,4 +1,4 @@
-flower,flower_Inches,flowerFrequency,flowerAlts,flowerAlt_Inches,flowerAlt_Frequency
+flower,flowerInches,flowerFrequency,flowerAlts,flowerAlt_Inches,flowerAlt_Frequency
 Desert Marigold,1,7,"Perky Sue,Brittlebrush","0.5,0.5","7,10"
 Mexican Sunflower,2,7,"Four Nerve Daisy,Narrowleaf Sunflower,Angelita Daisy","0.5,1,0.5","14,7,14"
 Angelita Daisy,1,7,"Four Nerve Daisy,Perky Sue,Mexican Sunflower","0.5,0.5,1","14,7,7"
@@ -31,7 +31,7 @@ Aloe Vera,1,14,Agave,1,30
 Evening Primrose,1,7,"Mexican Primrose,Sundrops","1, 1","7,7"
 Golden Columbine,1,7,None,None,None
 Sunset Hyssop,1,14,"Agastache,Autumn Sage,Desert Beardtongue","1, 0.5, 0.5","7,14,14"
-Parry’s Penstemon,1,7,Desert Beardtongue,0.5,14
+Parryâ€™s Penstemon,1,7,Desert Beardtongue,0.5,14
 Purple Trailing Lantana,1,7,"Desert Verbena,Moss Verbena","0.5, 1","7,7"
 Desert Globe Amaranth,0.5,14,"Rock Pulsane,Parry's Penstemon","1,1","10,7"
 Hibiscus,1,7,"Rock Hibiscus,Desert Willow","1,1","14,21"
@@ -83,8 +83,8 @@ Texas Mountain Laurel,1,10,Desert Willow,0.25,7
 Ocotillo,0.5,14,None,None,None
 Fairy Duster,0.5,14,None,None,None
 Nasturtium,1,6,"California Poppy,Globe Mallow","0.5,0.5","7,7"
-Desert Four O’Clock,0.5,14,None,None,None
-Elephant’s Food,0.5,14,None,None,None
+Desert Four Oâ€™Clock,0.5,14,None,None,None
+Elephantâ€™s Food,0.5,14,None,None,None
 Purple Sage,1,10,Texas Sage,0.25,7
 Golden Eye,1,7,"Blanket Flower,Coreopsis","1,1","7,7"
 Trailing Ice Plant,0.5,10,None,None,None
